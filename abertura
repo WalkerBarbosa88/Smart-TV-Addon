@@ -12,20 +12,6 @@
 </channel>
 
 
-
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[COLOR=gold][B] ESPECIAL ÁGUEDA[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/especial%20%C3%A1gueda</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
- 
-
-
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[COLOR=gold][B] CANAIS DE TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -34,7 +20,6 @@
 <fanart></fanart>
 <info></info>
 </channel>
-
 
 
 <channels>
@@ -47,7 +32,6 @@
 </channel>
  
  
- 
 <channels>
 <channel>
 <name>[B][COLOR lime]●[COLOR=gold][B] WEBCAM LIVE[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -56,7 +40,6 @@
 <fanart></fanart>
 <info></info>
 </channel>
-
 
 
 <channels>
@@ -69,7 +52,6 @@
 </channel>
 
 
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[COLOR=gold][B] YOUTUBE VIDEOCLIPS[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -78,7 +60,6 @@
 <fanart></fanart>
 <info></info>
 </channel>
-
 
 
 <channels>
@@ -91,7 +72,6 @@
 </channel>
 
 
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[COLOR=gold][B] LISTAS EXTERNAS[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -102,7 +82,6 @@
 </channel>
 
 
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[COLOR=white][B] ÁREA DE TESTES[/B][/COLOR][COLOR=white][/COLOR]</name>
@@ -111,7 +90,6 @@
 <fanart></fanart>
 <info></info>
 </channel>
-
 
 
 
