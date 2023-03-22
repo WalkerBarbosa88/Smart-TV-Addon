@@ -1,0 +1,40 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] LISTAS E/OU ADDONS EXTERNOS [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/3/items/lista-externa-m-3-u_202210/Lista%20Externa%20M3U.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ENG[/COLOR][/B]</name>
+<thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
+<externallink>https://bit.ly/FTV-ENG</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info>LISTA DA RESPONSABILIDADE DE: FLUXUS TV</info>
+</channel>
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FREE TV[/COLOR][/B]</name>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info>LISTA DA RESPONSABILIDADE DE: FREE-TV</info>
+</channel>
+
+
+
+</channels>
