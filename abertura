@@ -4,10 +4,10 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] LITE TV 2 [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] SMART TV ADDON [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
 <thumbnail>https://ia601706.us.archive.org/15/items/seja-bem-vindo_202011/Seja%20Bem%20Vindo.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia902508.us.archive.org/11/items/pateira-de-fermentelos/Pateira%20de%20Fermentelos.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
@@ -17,9 +17,9 @@
 <channels>
 <channel>
 <name>[B][COLOR lime]●[COLOR=gold][B] ESPECIAL ÁGUEDA[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia902509.us.archive.org/34/items/cm-agueda/cm%20%C3%A1gueda.jpg</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/especial%20%C3%A1gueda</externallink>
-<fanart>https://archive.org/download/agueda_site/agueda_site.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
  
@@ -31,7 +31,7 @@
 <name>[B][COLOR lime]●[COLOR=gold][B] CANAIS DE TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia803401.us.archive.org/9/items/canais-tv-2/Canais%20TV2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/canaistv%20submenu</externallink>
-<fanart>https://ia801402.us.archive.org/26/items/umbrella-sky-project/umbrella%20sky%20project.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
@@ -42,7 +42,7 @@
 <name>[B][COLOR lime]●[COLOR=gold][B] RÁDIOS ONLINE [/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia803407.us.archive.org/21/items/radios-online-2/R%C3%A1dios%20Online%202.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/submenu%20radios</externallink>
-<fanart>https://ia601402.us.archive.org/12/items/umbrella-project-sky-noite-agueda/Umbrella%20Project%20Sky%20Noite%20%C3%81gueda.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
  
@@ -53,7 +53,7 @@
 <name>[B][COLOR lime]●[COLOR=gold][B] WEBCAM LIVE[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/18/items/webcam-ao-vivo/Webcam%20ao%20Vivo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/webcam%20submenu</externallink>
-<fanart>https://ia902508.us.archive.org/9/items/street-art-agueda-3/Street%20Art%20%C3%81gueda%203.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
@@ -64,7 +64,7 @@
 <name>[B][COLOR lime]●[COLOR=gold][B] STREAMING GRÁTIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/12/items/streaming-gratis_202209/streaming%20gr%C3%A1tis.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/streaming%20gratis%20submenu</externallink>
-<fanart>https://ia902504.us.archive.org/0/items/vouguinha-agueda_202206/Vouguinha%20-%20%C3%81gueda.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
@@ -75,7 +75,7 @@
 <name>[B][COLOR lime]●[COLOR=gold][B] YOUTUBE VIDEOCLIPS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia803400.us.archive.org/1/items/youtube-best/Youtube%20Best.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/YT%20submenu%20Youtube</externallink>
-<fanart>https://ia601408.us.archive.org/11/items/arte-urbana-2/arte%20urbana%202.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
@@ -86,7 +86,7 @@
 <name>[B][COLOR lime]●[COLOR=gold][B] FILMES & SÉRIES TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia904507.us.archive.org/13/items/filmes-e-series-tv-3/Filmes%20e%20Series%20TV%203.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/submenu%20filmes%20e%20series</externallink>
-<fanart>https://ia801503.us.archive.org/14/items/body-painting-2/body%20Painting%202.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
@@ -97,7 +97,7 @@
 <name>[B][COLOR lime]●[COLOR=gold][B] LISTAS EXTERNAS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia802203.us.archive.org/16/items/lista-e-addons-externos/Lista%20e%20Addons%20Externos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/listasexternas</externallink>
-<fanart>https://ia902508.us.archive.org/16/items/estatuas-vivas-agueda/Est%C3%A1tuas%20Vivas%20%C3%81gueda.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
@@ -108,7 +108,7 @@
 <name>[B][COLOR lime]●[COLOR=white][B] ÁREA DE TESTES[/B][/COLOR][COLOR=white][/COLOR]</name>
 <thumbnail>https://ia804600.us.archive.org/34/items/obras_202201/OBRAS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/AGUEDATV/main/%C3%A1rea%20de%20testes</externallink>
-<fanart>https://ia902500.us.archive.org/0/items/agueda-colorida/Agueda%20Colorida.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
