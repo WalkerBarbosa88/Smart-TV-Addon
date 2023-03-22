@@ -1,0 +1,60 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white]FILMES E SÉRIES TV SUBMENU[/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/2/items/submenu_202208/submenu.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FILMES NUVEM[/COLOR][/B]</name>
+<thumbnail>https://ia601507.us.archive.org/17/items/filmes-nuvem-e-recentes/Filmes%20Nuvem%20e%20Recentes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/filmes%20nuvem</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FILMES PT OU LEG.[/COLOR][/B]</name>
+<thumbnail>https://ia601501.us.archive.org/14/items/filmes-pt-e-leg/Filmes%20PT%20e%20Leg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/filmes%20PT</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FILMES DIVERSOS[/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/19/items/diversos-filmes_202208/Diversos%20Filmes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/filmes%20diversos</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]SÉRIES DE TV[/COLOR][/B]</name>
+<thumbnail>https://ia601500.us.archive.org/14/items/series-de-tv_20220816/S%C3%A9ries%20de%20TV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/s%C3%A9ries%20TV%201</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+</channels>
