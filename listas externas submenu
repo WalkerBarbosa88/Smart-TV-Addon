@@ -12,8 +12,6 @@
 </channels>
 
 
-
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ENG[/COLOR][/B]</name>
@@ -24,6 +22,14 @@
 </channel>
 
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ESP[/COLOR][/B]</name>
+<thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
+<externallink>https://bit.ly/FTV-ESP</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info>LISTA DA RESPONSABILIDADE DE: FLUXUS TV</info>
+</channel>
 
 
 <channels>
