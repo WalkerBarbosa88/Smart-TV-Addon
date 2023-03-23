@@ -85,6 +85,17 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[COLOR=gold][B] CANTINHO ZOKA[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia801801.us.archive.org/20/items/cantinho-da-zoka_202011/Cantinho%20da%20Zoka.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Smart-TV-Addon/main/cantinho%20da%20zoka%20submenu</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[COLOR=yellow][B] ESPECIAL LOCALIDADES[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Smart-TV-Addon/main/localidades%20submenu</externallink>
