@@ -12,6 +12,18 @@
 </channels>
 
 
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]TDT CHANNEL TV[/COLOR][/B]</name>
+<thumbnail>https://ia801805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
+<externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ENG[/COLOR][/B]</name>
