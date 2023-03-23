@@ -1,0 +1,151 @@
+
+##########################################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  ESPECIAL ÁGUEDA  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:00000
+##########################################################################################################################################################################
+
+#EXTM3U
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 29/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  COMUNICAÇÃO SOCIAL DE ÁGUEDA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO AGITA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
+https://listen.radioking.com/radio/505570/stream/563098
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO BOTAREU FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8238/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SOBERANIA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8034/stream
+
+
+###########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CONCERTOS AO VIVO EM ÁGUEDA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - MANINHO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Pzc9LvRoXM8
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - GUANO APES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=NNxTTLEbq-k
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - VITÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=UuaU0tB901w
+
+#EXTINF:-1,[COLOR=white][B]FEIRA DAS LAMBARICES 2022 - TRIBUTO AOS NIRVANA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=4qUu5g2TARI
+
+###########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  HISTÓRIA DE ÁGUEDA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]HORIZONTES DA MEMÓRIA, RTP ÁGUEDA 2000[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m3O22DL2-H4
+
+
+###########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE NACIONAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - MAKING OF[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=ZyysPOm-qyU
+
+#EXTINF:-1,[COLOR=white][B]VIDEO PROMOCIONAL ÁGUEDA 2022[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=54b-iL6cV8k
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - ANIMAÇÃO DE RUA 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=mNNU5KrFXFY
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - ANIMAÇÃO DE RUA 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=n-2FqNGYOUk
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - CARNAVAL FORA DE HORAS + COLOR DAY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=UCn6NOV_KkU
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - MAD PARADE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=q7L4Q86BSVs
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - SILENT PARTY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=1oa_FPUaPsk
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - FOGO DE ARTIFÍCIO 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=C38kAC8QFGw
+
+#EXTINF:-1,[COLOR=white][B]AGITAGUEDA 2022 - FOGO DE ARTIFÍCIO 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=qTNmSqnOiBY
+
+#EXTINF:-1,[COLOR=white][B]TURISMO DA NATUREZA 2021 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PG0ZRsFReuE&ab_channel=Agueda.TV
+
+#EXTINF:-1,[COLOR=white][B]ÁGUEDA 2021 - ÁGUEDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Fj1ZpdPHxe8&ab_channel=%C3%81guedaLive
+
+#EXTINF:-1,[COLOR=white][B]DESTINO PORTUGAL 2021[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EL_ZvaGMOk8&ab_channel=DestinoPortugal
+
+#EXTINF:-1,[COLOR=white][B]VISA ÁEREA ÁGUEDA 2020[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2qUQq83RupE
+
+#EXTINF:-1,[COLOR=white][B]PATEIRA DE FERMENTELOS - VISTA AÉREA 2020 (4K)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L6Vcz48J_aI
+
+#EXTINF:-1,[COLOR=white][B]PATEIRA DE FERMENTELOS - VISTA AÉREA 2019 (4K)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o1jaOOu2ToQ
+
+#EXTINF:-1,[COLOR=white][B]VIVE MAIS A TUA CIDADE 2019 - ÁGUEDA LIVRE (4K)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kRfi5nmneuw
+
+#EXTINF:-1,[COLOR=white][B]AGITÁGUEDA 2019 DESTAQUES 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dbzQwKavmMo
+
+#EXTINF:-1,[COLOR=white][B]AGITÁGUEDA 2019 DESTAQUES 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Yo_sid2kuG8&t=80s
+
+#EXTINF:-1,[COLOR=white][B]AGITÁGUEDA 2019 DESTAQUES 3[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jHHXPp_NmNs&ab_channel=Agueda.TV
+
+#EXTINF:-1,[COLOR=white][B]AGITÁGUEDA 2019 DESTAQUES 4[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VCRTORc0d8o&t=10s
+
+#EXTINF:-1,[COLOR=white][B]COMBOIO HISTÓRICO 2019[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EZoklQiDuwQ
+
+#EXTINF:-1,[COLOR=white][B]MUSEU FERROVIÁRIO DE MACINHATA DO VOUGA 2018[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0kUbmNDd8TY
+
+#EXTINF:-1,[COLOR=white][B]VÍDEO PROMOCIONAL ÁGUEDA 2018[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MWnYrgsf3aM
+
+#EXTINF:-1,[COLOR=white][B]COMBOIO HISTÓRICO 2017[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=juRKd_b2OZo
+
+
+###########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  NATAL EM ÁGUEDA NO YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2022 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=vr8je1idBcU
+
+#EXTINF:-1,[COLOR=white][B]VIVÊNCIAS EM PORTUGAL - NATAL ÁGUEDA 2022[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=AQ5EOfTaYc
+
+#EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2021 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KV2deKL6HAw
+
+#EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2020 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0h-oeZnxTgA
+
+#EXTINF:-1,[COLOR=white][B]PAI NATAL ÁGUEDA 2019 (4K)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L0qXw29EYlY
+
+#EXTINF:-1,[COLOR=white][B]AGUEDA TV - NATAL 2017[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jWDKafdb4jE&ab_channel=Agueda.TV
