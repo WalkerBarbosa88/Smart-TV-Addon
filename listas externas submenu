@@ -26,6 +26,19 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]M3U CL MUSICA[/COLOR][/B]</name>
+<thumbnail>https://ia802203.us.archive.org/29/items/musica_202203/MUSICA.jpg</thumbnail>
+<externallink>https://m3u.cl/lista/musica.m3u</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ENG[/COLOR][/B]</name>
 <thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
 <externallink>https://bit.ly/FTV-ENG</externallink>
