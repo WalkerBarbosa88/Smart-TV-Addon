@@ -26,6 +26,17 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS TDT CHANNELS[/COLOR][/B]</name>
+<thumbnail>https://ia801805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
+<externallink>https://www.tdtchannels.com/lists/radio.m3u8</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS CLUBSLYNET[/COLOR][/B]</name>
 <thumbnail>https://ia601707.us.archive.org/29/items/radios-mundiais_202012/R%C3%A1dios%20Mundiais.jpg</thumbnail>
 <externallink>http://topplay.do.am/RadioTopPlay.m3u</externallink>
