@@ -1,0 +1,37 @@
+
+<layouttype>thumbnail</layouttype>
+ 
+<channels>
+<channel>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white]LOCALIDADES SUBMENU[/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<thumbnail>https://ia804505.us.archive.org/32/items/sub-menu-tv-2/SubMenu%20TV2.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info>
+</channel>
+</channels>
+ 
+ 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]ÁGUEDA[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Smart-TV-Addon/main/especial%20agueda</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+ 
+ 
+ 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]PRAIAS PT[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Smart-TV-Addon/main/outras%20localidades</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+ 
+</channels>
