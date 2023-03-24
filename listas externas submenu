@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]TDT CHANNEL TV[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]TDT CHANNEL TV[/COLOR][/B]</name>
 <thumbnail>https://ia801805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
 <externallink>https://www.tdtchannels.com/lists/tv.m3u</externallink>
 <fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
@@ -26,7 +26,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]M3U CL MUSICA[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]M3U CL MUSICA[/COLOR][/B]</name>
 <thumbnail>https://ia802203.us.archive.org/29/items/musica_202203/MUSICA.jpg</thumbnail>
 <externallink>https://m3u.cl/lista/musica.m3u</externallink>
 <fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
@@ -37,7 +37,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]TV MEU TÉDIO BR[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]TV MEU TÉDIO BR[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/3/items/lista-externa-m-3-u_202210/Lista%20Externa%20M3U.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u</externallink>
 <fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ENG[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]FLUXUS TV ENG[/COLOR][/B]</name>
 <thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
 <externallink>https://bit.ly/FTV-ENG</externallink>
 <fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
@@ -58,7 +58,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ESP[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]FLUXUS TV ESP[/COLOR][/B]</name>
 <thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
 <externallink>https://bit.ly/FTV-ESP</externallink>
 <fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
@@ -68,7 +68,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FREE TV[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]FREE TV[/COLOR][/B]</name>
 <thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8</externallink>
 <fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
