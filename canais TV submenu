@@ -67,8 +67,14 @@
 
 
 
-
-
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]EVENTOS DESPORTIVOS[/COLOR][/B]</name>
+<thumbnail>https://ia801706.us.archive.org/15/items/premium-desporto/Premium%20Desporto.jpg</thumbnail>
+<externallink>http://milhano.pt/ftp-milhano/aladotv/TheAnonymous.Desporto/sportsonline2/</externallink>
+<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
+<info></info>
+</channel>
  
  
 </channels>
