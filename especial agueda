@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 29/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 #EXTM3U
@@ -47,6 +47,10 @@ http://000000000000000
 
 #EXTINF:-1,[COLOR=white][B]HORIZONTES DA MEMÓRIA, RTP ÁGUEDA 2000[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m3O22DL2-H4
+
+
+#EXTINF:-1,[COLOR=white][B]CONHEÇA ÁGUEDA 2022 - CANAL BRASIL EM PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Lgw5hOjX4KQ
 
 
 ###########################################################################################################################################
@@ -138,6 +142,12 @@ plugin://plugin.video.youtube/play/?video_id=vr8je1idBcU
 #EXTINF:-1,[COLOR=white][B]VIVÊNCIAS EM PORTUGAL - NATAL ÁGUEDA 2022[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=AQ5EOfTaYc
 
+#EXTINF:-1,[COLOR=white][B]NATAL EM ÁGUEDA É ... (PARTE 1) 2022[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=RZJjWZXlgyk
+
+#EXTINF:-1,[COLOR=white][B]NATAL EM ÁGUEDA É ... (PARTE 2) 2022[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=CEIKZBrz4VE
+
 #EXTINF:-1,[COLOR=white][B]NATAL ÁGUEDA 2021 - ÁGUEDA TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KV2deKL6HAw
 
@@ -147,5 +157,17 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0h-oeZ
 #EXTINF:-1,[COLOR=white][B]PAI NATAL ÁGUEDA 2019 (4K)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L0qXw29EYlY
 
+#EXTINF:-1,[COLOR=white][B]RTP PAI NATAL EM ÁGUEDA 2018[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=vUiJM3F0Fcg
+
 #EXTINF:-1,[COLOR=white][B]AGUEDA TV - NATAL 2017[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jWDKafdb4jE&ab_channel=Agueda.TV
+
+#EXTINF:-1,[COLOR=white][B]EXPOSIÇÃO DE NATAL EM ÁGUEDA 2015[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=SoHAnCp9Mfc
+
+
+
+
+
+
