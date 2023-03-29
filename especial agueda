@@ -24,7 +24,7 @@ https://nl.digitalrm.pt:8034/stream
 
 
 ###########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CONCERTOS AO VIVO EM ÁGUEDA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CONCERTOS AO VIVO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
 
@@ -54,7 +54,7 @@ plugin://plugin.video.youtube/play/?video_id=Lgw5hOjX4KQ
 
 
 ###########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE NACIONAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  ÁGUEDA NO YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
 
