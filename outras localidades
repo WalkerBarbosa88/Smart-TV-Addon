@@ -31,6 +31,14 @@ plugin://plugin.video.youtube/play/?video_id=iMtL_OdEfrk
 
 
 ############################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  VAGUEIRA, VAGOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
+https://0000000000000000000000000000
+
+############################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIA DE MIRA, COIMBRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
@@ -38,6 +46,8 @@ http://000000000000000
 #EXTINF:-1,[COLOR=white][B]PRAIA DE MIRA E BARRINHA, COIMBRA 2015[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=1syK0mIDrsg
 
+#EXTINF:-1,[COLOR=white][B]DOCUMENTÁRIO, PALHEIROS DE MIRA, AGOSTO 2020[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=LafQc-gWeTA
 
 ############################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIA DO FURADOURO, OVAR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
