@@ -1,29 +1,42 @@
-
-
 ##########################################################################################################################################################################
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  OUTRAS LOCALIDADES  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 23/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
-
-
+#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 28/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  DIVERSAS PAISAGENS VISTAS DO CÉU  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]CANAL VISTO DO CEU PORTUGAL 2022[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=yZx-_BMMrpY
+
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIA DA BARRA E COSTA NOVA, ÍLHAVO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://0000000000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DA BARRA 4K VISTA DO CÉU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=8Pb1JW-73jQ
+
+#EXTINF:-1,[COLOR=white][B]COSTA NOVA E BARRA 4K 2018[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Is5dCCkHyE8
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DA BARRA SETEMBRO 2022[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=iMtL_OdEfrk
 
 
 ############################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIA DE MIRA, COIMBRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://000000000000000
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://0000000000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DE MIRA E BARRINHA, COIMBRA 2015[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=1syK0mIDrsg
 
 
 ############################################################################################################################
