@@ -42,26 +42,5 @@
 </channel>
 
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]DISTRO TV[/COLOR][/B]</name>
-<thumbnail>https://ia904608.us.archive.org/17/items/distro-tv_20211207/Distro%20TV.jpg</thumbnail>
-<externallink>https://www.apsattv.com/distro.m3u</externallink>
-<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
-<info></info>
-</channel>
-
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]RAKUTEN TV[/COLOR][/B]</name>
-<thumbnail>https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg</thumbnail>
-<externallink>https://www.apsattv.com/rakuten.m3u</externallink>
-<fanart>https://ia601601.us.archive.org/13/items/fanart-smart-tv/fanart%20smart%20TV.jpg</fanart>
-<info></info>
-</channel>
-
-
-
 
 </channels>
